@@ -2,5 +2,5 @@
  Stock price charts by using plotly  
 
 
-![APPLE Stock Chart](/quantfig/images/AAPL.png)
+![APPLE Stock Chart](/images/AAPL.png)
 
